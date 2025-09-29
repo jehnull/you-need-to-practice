@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: 'https://jehnull.github.io/you-need-to-practice/yntp/',
+  base: '/you-need-to-practice',
   server: {
     port: 8080,
     open: true,
