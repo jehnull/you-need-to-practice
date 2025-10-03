@@ -15,7 +15,8 @@
   "dependencies": {
     "@pixi/layout": "^3.2.0",
     "gh-pages": "^6.3.0",
-    "pixi.js": "^8.8.1"
+    "pixi.js": "^8.8.1",
+    "tonal": "^6.4.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
